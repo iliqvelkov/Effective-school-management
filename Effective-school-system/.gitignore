@@ -1,3 +1,5 @@
 logs/*
 !.gitkeep
 node_modules/
+lib/
+dist/
